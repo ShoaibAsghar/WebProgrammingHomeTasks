@@ -1,0 +1,126 @@
+/* <!-- Name: Shoaib Asghar -->
+<!-- Roll Number: 19i-0406 -->
+<!-- CS-A --> */
+
+       #backgroundImage 
+       {
+        margin: 0;
+        padding: 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: no-repeat;
+        background-size: cover;
+        background-position: top;
+        height:300px;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(images/header.jpg);
+        width: 100%;
+        
+        
+    }
+    
+    .logopicture
+    {
+     margin: 0;
+     padding: 0;   
+     position: relative;
+     top: 180px;
+     left: 600px;
+     width: 10%;
+     background: 1px solid white;
+     height: 60%;
+
+    }
+
+    .body1Picture 
+    {
+     margin: 0;
+     padding: 0; 
+     position: relative;
+     top: -20px;
+     left: 0px;
+     width: 100%;
+     background: 1px solid white;
+     height: 40%;
+        
+        
+    }
+    
+    .body2Picture 
+    {
+
+     position: relative;
+     top: -10px;
+     left: 0px;
+     width: 100%;
+     background: 1px solid white;
+     height: 50%;
+        
+        
+    }
+
+    .body3Picture 
+    {
+
+     position: relative;
+     top: -10px;
+     left: 0px;
+     width: 100%;
+     background: 1px solid white;
+     height: 50%;
+        
+        
+    }
+
+    
+    .body4Picture 
+    {
+
+     position: relative;
+     top: -10px;
+     left: 400px;
+     width: 45%;
+     background: 1px solid white;
+     height: 50%;
+        
+        
+    }
+
+    
+    #logoheading
+    {
+        margin: 0;
+        padding: 0;
+        position: relative;
+        left: 50px;
+        font-size: 5px;
+        font-weight: normal;
+        color: white; 
+        text-align: center;
+        font-family:'Roboto Slab', serif;
+        top: 130px;
+        max-width: 70px;
+        max-height: 50px;
+        z-index: 15;
+    }
+
+
+     
+    #titleHeading
+    {
+        margin: 0;
+        padding: 0;
+        position: relative;
+        left: 350px;
+        font-size: 43px;
+        font-weight: normal;
+        color: white; 
+        text-align: center;
+        font-family:'Roboto Slab', serif;
+        top: 130px;
+        max-width: 780px;
+        max-height: 500px;
+        z-index: 15;
+    }
+
+    
